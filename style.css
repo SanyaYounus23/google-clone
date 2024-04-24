@@ -1,0 +1,123 @@
+.right-side{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content:right;
+    gap: 20px;
+  
+}
+.icon{
+height: 50px;
+width: 50px;
+}
+.gmail{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+.google img{
+    height: 300px;
+    width: 450px;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.search{
+    width: 500px;
+    padding: 15px;
+    padding-left: 45px;
+    padding-right: 68px;
+    border-radius: 30px;
+    border: 1px solid #dedede;
+    outline: none;
+    font-size: 16px;
+    position: relative;
+    top: 220px;
+    left: 380px;
+    }
+.search-icon{
+    width: 40px;
+    height: 25px;
+    position: absolute;
+    top: 300px;
+    left: 400px;
+    
+    
+}
+.mic{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 295px;
+    left: 910px;
+    bottom: 50px;
+}
+.lelens{
+    width: 40px;
+    height: 28px;
+    position: absolute;
+    top: 298px;
+    left: 950px;
+
+}
+.btn-1{
+    border: 1px solid #dedede;
+    font-size: 14px;
+    padding: 5px 5px;
+    border-radius: 3px;
+    position: absolute;
+    top: 360px;
+    left: 580px;
+}
+.btn-2{
+    border: 1px solid #dedede;
+    font-size: 14px;
+    padding: 5px 5px;
+    border-radius: 3px;
+    position: absolute;
+    top: 360px;
+    left: 700px;
+}
+.para{
+    width: 140px;
+    height: 50px;
+    position: absolute;
+    top: 395px;
+    left: 620px;
+    }
+.offer{
+position: absolute;
+ top: 35%;
+ left: 90%;
+}
+.footer{
+    width: 1296px;
+    height: 100px;
+    background-color:rgb(238, 229, 229);
+    position: absolute;
+    top: 85%;
+    }
+.lefty{
+    display: flex;
+    justify-content: left;
+    gap:13px;
+    position: absolute;
+    top: 48px;
+    left: 20px;
+    
+}
+.pak{
+    position:absolute ;
+    bottom: 50px;
+    right:280px;
+}
+.righty{
+    display: flex;
+    justify-content: right;
+    gap:13px;
+    position: absolute;
+    top: 48px;
+    right: 35px;
+}
